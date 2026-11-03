@@ -21,3 +21,8 @@ The keys that will be neded in app.config:
  <add key ="SyntpopClientId" value="Guid from SyntPoP"/>
  <add key ="SyntPopOwnerId" value="Guid from SyntPoP"/>
  <add key ="SyntPopWebKey" value='HelseID token'/>
+
+
+Version 1.4.0.1 Released 03.11.2026
+Version includes change of encryption for communication between Who2 and HelseID Test.
+Encryption is now PS256
